@@ -14,4 +14,4 @@
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
 # Add a feed source
-sed -i '$a src-git ssrplus https://github.com/P0lari5/luci-app-ssr-plus.git' feeds.conf.default
+#sed -i '$a src-git ssrplus https://github.com/P0lari5/luci-app-ssr-plus.git' feeds.conf.default
